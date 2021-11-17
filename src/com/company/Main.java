@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Project Rock!");
         System.out.println("no hotfix");
         System.out.println("new hotfix");
+        System.out.println("hello! local repository");
     }
 }
