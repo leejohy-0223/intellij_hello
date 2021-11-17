@@ -7,5 +7,6 @@ public class Main {
         System.out.println("project diva");
         System.out.println("Project Rock!");
         System.out.println("no hotfix");
+        System.out.println("new hotfix");
     }
 }
