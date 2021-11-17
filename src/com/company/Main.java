@@ -10,5 +10,6 @@ public class Main {
         System.out.println("new hotfix");
         System.out.println("hello github");
         System.out.println("hello! local repository");
+        System.out.println("hello! git pull");
     }
 }
