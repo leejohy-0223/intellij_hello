@@ -6,5 +6,6 @@ public class Main {
         System.out.println("hello world");
         System.out.println("project diva");
         System.out.println("Project Rock!");
+        System.out.println("new hotfix");
     }
 }
